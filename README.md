@@ -74,11 +74,12 @@ Gdzie kluczową rolę gra profesjonalizacja języka, narracja, itp.
 ## Analizator tworzonego zdania przez ucznia
 
 w ograniczonym zakresie, słownictwo podstawowe
-    + pokazuje rozkłada zdania
-    + określa części zdania
-    + czas
-    + przypadek
-    + zdania podrzędne i nadrzędne
+
++ pokazuje rozkłada zdania
++ określa części zdania
++ czas
++ przypadek
++ zdania podrzędne i nadrzędne
 
 
 ## Aplikacja do budowania zdań
