@@ -6,6 +6,7 @@
 
 Służaca przygotowaniu pierwszego wdrożenia aplikacji do nauki gramatyki języka niemieckiego.
 
++ [kod źródłowy opensource](https://github.com/goethe-pl/)
 + [dokumentacja](https://docs.goethe.pl/)
 + [logo](https://logo.goethe.pl/)
 + [blog](https://goethe.pl/)
