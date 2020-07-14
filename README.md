@@ -135,12 +135,7 @@ https://pytorch.org/tutorials/
 https://colab.research.google.com/notebooks/intro.ipynb#recent=true
 Was ist Colaboratory?
 
-Mit Colaboratory oder kurz "Colab" können Sie Python-Code in Ihrem Browser schreiben und ausführen. Sie können Folgendes tun:
-
-    Keine Konfiguration erforderlich
-    Kostenlosen Zugriff auf GPUs
-    Einfache Freigabe
-
+Mit Colaboratory oder kurz "Colab" können Sie Python-Code in Ihrem Browser schreiben und ausführen.
 
 ### Books
 
