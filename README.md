@@ -6,6 +6,11 @@
 
 Służaca przygotowaniu pierwszego wdrożenia aplikacji do nauki gramatyki języka niemieckiego.
 
++ [dokumentacja](https://docs.goethe.pl/)
++ [logo](https://logo.goethe.pl/)
++ [blog](https://goethe.pl/)
++ [Wersja testowa](http://app.goethe.pl/tags2.html)
+
 
 ### Tematy
 
