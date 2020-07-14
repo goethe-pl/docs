@@ -102,7 +102,8 @@ Jakie czasy wykorzystywane i jakie typy zdań mają być budowane.
 + [ROZBIOR_LOGICZNY.md](ROZBIOR_LOGICZNY.md)
 
 
-# Libraries
+# Libraries for UI
+biblioteki dla języka javascript, mogące być przydatne do tworzenia otagowanych zdań
 
 ![lib1.png](docs/lib1.png)
 https://www.jqueryscript.net/form/Tagging-System-Autocomplete-Amsify-Suggestags.html
