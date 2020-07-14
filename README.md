@@ -7,12 +7,13 @@
 Służaca przygotowaniu pierwszego wdrożenia aplikacji do nauki gramatyki języka niemieckiego.
 
 
-### Implementation
+### Tematy
 
 + [teoria](TEORIA.md)
 + [chat](CHAT.md)
 + [browser extension](BROWSER.md)
-
++ [ROZBIOR_GRAMATYCZNY.md](ROZBIOR_GRAMATYCZNY.md)
++ [ROZBIOR_LOGICZNY.md](ROZBIOR_LOGICZNY.md)
 
 # Rozwiązania
 
